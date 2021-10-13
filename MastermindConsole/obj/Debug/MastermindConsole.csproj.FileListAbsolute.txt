@@ -1,0 +1,14 @@
+C:\git\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.csprojAssemblyReference.cache
+C:\git\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.csproj.CoreCompileInputs.cache
+C:\git\MastermindConsole\MastermindConsole\bin\Debug\MastermindConsole.exe.config
+C:\git\MastermindConsole\MastermindConsole\bin\Debug\MastermindConsole.exe
+C:\git\MastermindConsole\MastermindConsole\bin\Debug\MastermindConsole.pdb
+C:\git\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.exe
+C:\git\MastermindConsole\MastermindConsole\obj\Debug\MastermindConsole.pdb
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\bin\Debug\MastermindConsole.exe.config
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\bin\Debug\MastermindConsole.exe
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\bin\Debug\MastermindConsole.pdb
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\obj\Debug\MastermindConsole.csprojAssemblyReference.cache
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\obj\Debug\MastermindConsole.csproj.CoreCompileInputs.cache
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\obj\Debug\MastermindConsole.exe
+C:\git\MastermindConsole\MasterMindChallenge\MastermindConsole\obj\Debug\MastermindConsole.pdb
